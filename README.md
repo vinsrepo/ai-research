@@ -12,6 +12,7 @@
 <a name="I"></a>
 ## I. Detect toxic image and video
 Project dựa theo repo https://github.com/bedapudi6788/NudeNet
+
 Bạn cần tải pre-train model "classifier_model" ở đây https://github.com/bedapudi6788/NudeNet-models/tree/master/v1
 <a name="classifier_image"></a>
 ### 1. Classifier_image:
